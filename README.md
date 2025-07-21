@@ -41,14 +41,7 @@ markdown
 [![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
 3. Table of Contents
 markdown
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [FAQ](#faq)
-- [License](#license)
+
 4. Installation
 markdown
 ## Installation
