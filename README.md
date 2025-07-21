@@ -112,7 +112,7 @@ text
 - Feature 1: Description
 - Feature 2: Description
 - Feature 3: Description
-8. Contributing
+### 8. Contributing
 markdown
 ## Contributing
 
@@ -121,7 +121,7 @@ markdown
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-9. Tests
+### 9. Tests
 markdown
 ## Tests
 
